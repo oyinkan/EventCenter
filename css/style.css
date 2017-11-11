@@ -63,3 +63,8 @@
 	margin: 0 auto;
     width: 52%;
 }
+@media screen and (max-width: 768px) {
+    .view img, .view video {
+        height: 600px;
+    }
+}
