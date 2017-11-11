@@ -1,0 +1,65 @@
+.navbar.navbar-dark .navbar-nav .nav-item .nav-link {
+	color: #fff;
+}
+.navbar.navbar-dark .navbar-nav .nav-item .nav-link:hover {
+	background-color: #fff;
+	color: #131111;
+	font-weight: bold;
+}
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+.navbar-dark .navbar-brand:hover {
+    color: #fff;
+}
+
+.carousel-item{
+	width: 100%;
+}
+.carousel-inner{
+	height: 450px;
+}
+.carousel-caption{
+	bottom: 50%;
+}
+.btn.btn-ddefault{
+	border-radius: 20px;
+}
+.bold{
+	font-weight: bold;
+	padding-top: 30px;
+}
+.overlay{
+	position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    background: rgba(0,0,0,0.4);
+    opacity: 0;
+    cursor: pointer;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    -o-transition: 0.2s;
+    transition: 0.2s;
+}
+#testimonials {
+    height: 200px;
+    margin-top: 50px;
+}
+.navbar.scrolling-navbar{
+	background-color: #000;
+	border-bottom: 1px solid #000;
+}
+.btn-sub{
+	height: 50px;
+    margin-top: -7px;
+}
+.form-inline .form-control{
+	background-color: #d6cfc5;
+}
+.form-inline{
+	margin: 0 auto;
+    width: 52%;
+}
